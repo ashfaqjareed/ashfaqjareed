@@ -189,12 +189,8 @@ const ashfaq = {
 ## ◈ CONTRIBUTION SNAKE
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/ashfaqjareed/ashfaqjareed/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
-
-> **Setup snake:** Go to Actions tab → Enable workflows → Create `.github/workflows/snake.yml` with the Platane/snk action → Run manually once.
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
