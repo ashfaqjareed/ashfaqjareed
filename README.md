@@ -26,15 +26,15 @@
 
 ```javascript
 const ashfaq = {
-  name        : "M.ASHFAQ JAREED",
-  alias       : "SupremeDude",
-  base        : "Colombo, Sri Lanka",
+  name        : "M. Ashfaq",
+  alias       : "Ash",
+  base        : "Colombo, Sri Lanka 🇱🇰",
   brand       : "Vantage Studio",
   role        : ["Full-Stack Developer", "UI/UX Designer", "Photographer", "Freelancer"],
   currentFocus: "Building scalable web products & luxury brands",
   philosophy  : "Ship fast. Design with soul. Never compromise quality.",
-  availableFor: ["Freelance Projects", "Collaborations", "Freelanicng Services"],
-  contact     : "ashfaqjareed@gmail.com",
+  availableFor: ["Freelance Projects", "Collaborations", "Consulting"],
+  contact     : "vantagestudio.lk@gmail.com",
 };
 ```
 
@@ -189,8 +189,12 @@ const ashfaq = {
 ## ◈ CONTRIBUTION SNAKE
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ashfaqjareed/ashfaqjareed/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
+
+> **Setup snake:** Go to Actions tab → Enable workflows → Create `.github/workflows/snake.yml` with the Platane/snk action → Run manually once.
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
@@ -199,8 +203,11 @@ const ashfaq = {
 <div align="center">
 
 <!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=120&section=footer&animation=twinkling"/><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A78BFA&height=120&section=footer&animation=twinkling"/>
 
-![Made with](https://img.shields.io/badge/Made_with-💜_by_M.ASHFAQ JAREED-6C63FF?style=for-the-badge)
+
+<br/>
+
+![Made with](https://img.shields.io/badge/Made_with-💜_by_M._Ashfaq-6C63FF?style=for-the-badge)
 
 </div>
